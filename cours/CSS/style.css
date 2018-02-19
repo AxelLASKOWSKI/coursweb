@@ -1,0 +1,31 @@
+body{
+
+	background: url("../images/planche.jpg")fixed;
+}
+
+h2{
+
+    font-family: 'Ravi Prakash', cursive;
+	color:green;
+	font-size:6em;
+	text-align: center;
+}
+
+ul{
+	text-shadow: 2px 2px 5px black;
+	border: 3px inset;
+	border-color: blue;
+	border-radius: 5px 5px 10px 10px;
+	font-size:50px;
+	background-color: silver;
+	box-shadow: 5px 5px 0px black;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p{
+	color: silver;
+	width: 80%;
+
+}
